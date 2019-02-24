@@ -11,6 +11,7 @@ public class StudyforjavaApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("======");
 	}
 
 }
